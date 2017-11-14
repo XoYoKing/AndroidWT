@@ -2,6 +2,7 @@ package com.wt.TestWT;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -22,6 +23,7 @@ import android.widget.Toast;
 
 import com.wt.TestWT.common.ConstVariable;
 import com.wt.TestWT.data.STR;
+import com.wt.libui.ActivityTest;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -298,6 +300,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (arg0.getId()) {
             //top title
             case R.id.buttonInit:
+                this.startActivity(new Intent(this, ActivityTest.class));
                 STR.doInit(this);
                 break;
             case R.id.buttonImport:
