@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SliderWT</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="que_ding">确定</string>
+    <string name="qu_xiao">取消</string>
+    <string name="permissions_request_ok">权限获取成功</string>
+    <string name="permissions_request_right_now">立即开启</string>
+    <string name="permissions_can_not_use">权限不可用</string>
+    <string name="permissions_shuoming_start">请在-应用设置-权限-中，允许</string>
+    <string name="permissions_shuoming_end">访问您设备上的照片、媒体内容和文件</string>
+</resources>
