@@ -1,10 +1,10 @@
-package com.wt.SliderWT.data;
+package com.wt.TestWT.data;
 
 import android.content.Context;
 import android.util.SparseArray;
 import android.util.Xml;
 
-import com.wt.SliderWT.common.ConstVariable;
+import com.wt.TestWT.common.ConstVariable;
 
 import org.xmlpull.v1.XmlPullParser;
 
@@ -22,8 +22,8 @@ import java.util.Date;
  */
 
 
-//adb push D:\GitHub\WT\Android\APP\SliderWT /sdcard
-//adb pull /storage/emulated/0/SliderWT/O/export d:\_temp
+//adb push D:\GitHub\WT\Android\APP\TestWT /sdcard
+//adb pull /storage/emulated/0/TestWT/O/export d:\_temp
 public class STR {
     public static final String TAG = "STR";
 

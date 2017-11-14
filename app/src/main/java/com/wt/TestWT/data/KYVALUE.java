@@ -1,4 +1,4 @@
-package com.wt.SliderWT.data;
+package com.wt.TestWT.data;
 
 import android.util.ArrayMap;
 import android.util.SparseArray;

@@ -1,4 +1,4 @@
-package com.wt.SliderWT;
+package com.wt.TestWT;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -20,8 +20,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Toast;
 
-import com.wt.SliderWT.common.ConstVariable;
-import com.wt.SliderWT.data.STR;
+import com.wt.TestWT.common.ConstVariable;
+import com.wt.TestWT.data.STR;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.

@@ -1,8 +1,8 @@
-package com.wt.SliderWT.data;
+package com.wt.TestWT.data;
 
 import android.util.SparseArray;
 
-import com.wt.SliderWT.common.ConstVariable;
+import com.wt.TestWT.common.ConstVariable;
 
 /**
  * Created by ting.wong on 2017/8/4.

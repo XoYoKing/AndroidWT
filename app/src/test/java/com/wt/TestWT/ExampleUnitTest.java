@@ -1,4 +1,4 @@
-package com.wt.SliderWT;
+package com.wt.TestWT;
 
 import org.junit.Test;
 

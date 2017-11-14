@@ -1,4 +1,4 @@
-package com.wt.SliderWT.common;
+package com.wt.TestWT.common;
 
 import android.content.Context;
 import android.os.Environment;
@@ -60,7 +60,7 @@ public class ConstVariable {
     {
         String strPathSD=getPathSD();
         //建立测试用目录
-        String strPathAppData=strPathSD+"SliderWT/";
+        String strPathAppData=strPathSD+"TestWT/";
         if ( dirAdd(strPathAppData,false) )
         {
         }
